@@ -1,0 +1,21 @@
+{
+  "#empty#": " ",
+  "cost": "Kost ({currency})",
+  "customer": "Klant",
+  "customer.edit": "Klant wijzigen",
+  "customers": "Klanten",
+  "date": "Datum",
+  "description": "Beschrijving",
+  "end": "Einde",
+  "job": "Opdracht",
+  "job.edit": "Opdracht wijzigen",
+  "jobs": "Opdrachten",
+  "save": "Opslaan",
+  "cancel": "Terug",
+  "name": "Naam",
+  "type": "Type",
+  "job.entries": "Ingaves",
+  "new": "Nieuw",
+  "delete": "Verwijder",
+  "log.entry": "Log invoer"
+}
