@@ -1,0 +1,16 @@
+{
+  "#empty#": " ",
+  "players": "Spelers",
+  "play": "Speel",
+  "game": "Spel",
+  "start": "Start",
+  "previous.games": "Vorige spelen",
+  "round.dames": "Dames",
+  "round.edit": "Wijzig ronde",
+  "round.dealer": "Deler",
+  "round.type": "Type",
+  "round.challengers": "Spelers",
+  "round.doublepoints": "x2",
+  "round.hands": "Slagen",
+  "round.winners": "Winnaars"
+}
