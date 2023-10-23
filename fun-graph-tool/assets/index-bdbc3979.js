@@ -1,0 +1,1 @@
+const e={trailer_types:"Anhängertypen",trailer_type:"Anhängertyp",plants:"Fabriken",general:"Allgemein",dimension:"Abmessungen",description:"Beschreibung",margin:"Marge",length_:"Länge",width:"Breite",height:"Höhe",name:"Name",required:"Erforderlich",no_results:"Keine Ergebnisse gefunden",select:"Wählen",loading___:"Wird geladen ..."};export{e as default};
